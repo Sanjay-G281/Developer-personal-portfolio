@@ -4,7 +4,7 @@ A responsive personal developer portfolio showcasing my projects and skills.
 Built with semantic HTML, CSS (Flexbox + Grid), and deployed via GitHub Pages.
 
 # Live Demo
-[View Portfolio](https://sanjay-g281.github.io/portfolio/) <!-- replace with your actual repo name -->
+[View Portfolio]([https://sanjay-g281.github.io/portfolio/](https://sanjay-g281.github.io/Developer-personal-portfolio/)) <!-- replace with your actual repo name -->
 
 # Features
 - Semantic HTML structure (`header`, `main`, `section`, `footer`)
